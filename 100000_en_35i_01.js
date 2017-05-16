@@ -350,7 +350,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 			}
 		}
 		
-		stage.update();
+		
 	}
 
 	// actions tween:
